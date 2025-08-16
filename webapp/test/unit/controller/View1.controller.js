@@ -1,7 +1,7 @@
 /*global QUnit*/
 
 sap.ui.define([
-	"mergetest/controller/View1.controller"
+	"mergeTested/controller/View1.controller"
 ], function (Controller) {
 	"use strict";
 

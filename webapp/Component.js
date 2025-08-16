@@ -1,10 +1,10 @@
 sap.ui.define([
     "sap/ui/core/UIComponent",
-    "mergetest/model/models"
+    "mergeTested/model/models"
 ], (UIComponent, models) => {
     "use strict";
 
-    return UIComponent.extend("mergetest.Component", {
+    return UIComponent.extend("mergeTested.Component", {
         metadata: {
             manifest: "json",
             interfaces: [

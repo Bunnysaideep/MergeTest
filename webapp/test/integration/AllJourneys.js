@@ -7,7 +7,7 @@ sap.ui.define([
 
 	Opa5.extendConfig({
 		arrangements: new Startup(),
-		viewNamespace: "mergetest.view.",
+		viewNamespace: "mergeTested.view.",
 		autoWait: true
 	});
 });

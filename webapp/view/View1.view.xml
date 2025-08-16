@@ -1,4 +1,4 @@
-<mvc:View controllerName="mergetest.controller.View1"
+<mvc:View controllerName="mergeTested.controller.View1"
     xmlns:mvc="sap.ui.core.mvc"
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
