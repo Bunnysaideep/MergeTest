@@ -1,4 +1,4 @@
-<mvc:View controllerName="mergetest.controller.App"
+<mvc:View controllerName="mergeTested.controller.App"
     displayBlock="true"
     xmlns:mvc="sap.ui.core.mvc"
     xmlns="sap.m">

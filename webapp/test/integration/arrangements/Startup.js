@@ -14,7 +14,7 @@ sap.ui.define([
 			// start the app UI component
 			this.iStartMyUIComponent({
 				componentConfig: {
-					name: "mergetest",
+					name: "mergeTested",
 					async: true
 				},
 				hash: oOptions.hash,

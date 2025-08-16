@@ -1,7 +1,7 @@
 {
   "_version": "1.76.0",
   "sap.app": {
-    "id": "mergetest",
+    "id": "mergeTested",
     "type": "application",
     "i18n": "i18n/i18n.properties",
     "applicationVersion": {
@@ -49,7 +49,7 @@
       "i18n": {
         "type": "sap.ui.model.resource.ResourceModel",
         "settings": {
-          "bundleName": "mergetest.i18n.i18n"
+          "bundleName": "mergeTested.i18n.i18n"
         }
       }
     },
@@ -68,9 +68,9 @@
         "transition": "slide",
         "type": "View",
         "viewType": "XML",
-        "path": "mergetest.view",
+        "path": "mergeTested.view",
         "async": true,
-        "viewPath": "mergetest.view"
+        "viewPath": "mergeTested.view"
       },
       "routes": [
         {
@@ -89,7 +89,7 @@
       }
     },
     "rootView": {
-      "viewName": "mergetest.view.App",
+      "viewName": "mergeTested.view.App",
       "type": "XML",
       "id": "App",
       "async": true

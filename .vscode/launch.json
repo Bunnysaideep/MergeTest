@@ -2,7 +2,7 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "Start mergetest",
+      "name": "Start mergeTested",
       "type": "node",
       "request": "launch",
       "cwd": "${workspaceFolder}",
@@ -24,11 +24,11 @@
       "env": {
         "DEBUG": "--inspect",
         "FIORI_TOOLS_URL_PARAMS": "sap-ui-xx-viewCache=false",
-        "run.config": "{\"handlerId\":\"fiori_tools\",\"runnableId\":\"/home/user/projects/mergetest\"}"
+        "run.config": "{\"handlerId\":\"fiori_tools\",\"runnableId\":\"/home/user/projects/mergeTested\"}"
       }
     },
     {
-      "name": "Start mergetest Local",
+      "name": "Start mergeTested Local",
       "type": "node",
       "request": "launch",
       "cwd": "${workspaceFolder}",
@@ -51,7 +51,7 @@
       "outputCapture": "std",
       "env": {
         "FIORI_TOOLS_URL_PARAMS": "sap-ui-xx-viewCache=false",
-        "run.config": "{\"handlerId\":\"fiori_tools\",\"runnableId\":\"/home/user/projects/mergetest\"}"
+        "run.config": "{\"handlerId\":\"fiori_tools\",\"runnableId\":\"/home/user/projects/mergeTested\"}"
       }
     }
   ]

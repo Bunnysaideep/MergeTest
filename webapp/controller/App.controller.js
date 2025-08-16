@@ -3,7 +3,7 @@ sap.ui.define([
 ], (BaseController) => {
   "use strict";
 
-  return BaseController.extend("mergetest.controller.App", {
+  return BaseController.extend("mergeTested.controller.App", {
       onInit() {
       }
   });
